@@ -7,5 +7,4 @@ A sample web application LIBRARY focused on Learning of Nodejs and Express
 `Basic tools used are:`
 1. Linting: `ESLint` [`Official Site`: https://eslint.org/]
 2. Template Engine: `EJS` [`Official Site`: http://ejs.co/]
-
-DATABASE in progress....
+3. DataBase Used:  `MongoDB` [`Official Site`: https://www.mongodb.com/]
